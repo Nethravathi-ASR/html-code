@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <ul>
+    <li>Rice</li>
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Eggs</li>
+    <li>Vegetables</li>
+</ul>
+</body>
+</html>
